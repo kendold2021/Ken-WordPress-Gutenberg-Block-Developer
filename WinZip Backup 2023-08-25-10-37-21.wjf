@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<winzipjob version="10" minwinrun="0" minwinedit="0">
+<items>
+<item spid="30" auth-id="30" nickname="" folder="yes" dnld="no" exclude="no" recurse="yes">&lt;^31&gt;\Local Sites\block-development-course\</item>
+</items>
+<output>
+<spid>30</spid>
+<auth-id>30</auth-id>
+<nickname/>
+<name append="datetime">WinZip Backup.zip</name>
+<folder append="none">C:\Users\kendo\OneDrive\Desktop\WordPress Gutenberg Block Development\Section 2</folder>
+<log type="none"/>
+</output>
+<options>
+<flags>0001</flags>
+<compression type="max"/>
+<span mode="auto"/>
+<split unit="byte">0</split>
+<encryption mode="none" method="none"/>
+<recycle>no</recycle>
+<progress>yes</progress>
+<show-errors-if-logging>no</show-errors-if-logging>
+<skip-work-files>no</skip-work-files>
+<shutdown>no</shutdown>
+<s4del days="0">0000</s4del>
+<folders mode="relative"/>
+<cd speed="default" finalize="yes"/>
+</options>
+<email>
+<mailitem options="0">
+<sendto/>
+<subject type="ok"/>
+<subject type="error"/>
+</mailitem>
+</email>
+<cloud>
+<entry options="0">
+<provider>0</provider>
+<auth-id/>
+<nickname/>
+<location/>
+</entry>
+</cloud>
+<notifications>
+<im>
+<message><![CDATA[...has files to share with you.]]></message>
+</im>
+<sm>
+<message><![CDATA[...has files to share with you.]]></message>
+</sm>
+</notifications>
+<conversions/>
+</winzipjob>
